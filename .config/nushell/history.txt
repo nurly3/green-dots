@@ -215,3 +215,25 @@ cd .config/
 cd nushell/
 ls
 nvim config.nu
+git add .
+git commit -m "use starship in nushell"
+git push
+clear
+ls
+clear
+ls
+exit
+clear
+exit
+eoxit
+exit
+ls
+exit
+starship
+exit
+nvim config.nu
+ls
+cd ..
+ls
+exit
+nvim starship.toml
