@@ -1,3 +1,4 @@
+niri
 neovim
 stow
 kitty
