@@ -1,0 +1,7 @@
+neovim
+stow
+noto-fonts
+kitty
+npm
+zen-browser-bin
+nushell

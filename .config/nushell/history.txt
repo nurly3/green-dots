@@ -1,0 +1,96 @@
+ls
+cd .config/
+ls
+cd nushell
+ls
+touch config.nu
+nvim config.nu
+ssh-keygen -t ed25519 -C "nurlyx+github@proton.me"
+clear
+eval "$(ssh-agent -s)"
+bash
+ls
+clear=
+clear
+clrear
+cd
+ls
+cd .config/
+cd gils
+clear
+clraer
+clear
+cd ..
+cat .ssh/id_ed25519.pub
+crear
+crlear
+ssh -T git@github.com
+clear
+ls
+clear
+cd .config/
+cd ..
+cd .dotfiles/
+cear
+ls
+clear
+touch .stow-local-ignore
+nvim .stow-local-ignore
+clear
+stow .
+cd ..
+ls
+rm -rf requirements.txt
+cd .dotfiles/
+stow .
+cd ..
+ls
+cd .dotfiles/
+ls
+clear
+ls -a
+cear
+clear
+lear
+cear
+clear
+cd .config/
+cd nushell/
+ls
+clear
+exi
+exit
+clear
+ls
+cd .config/
+cd nushell/
+ls
+exit
+nvim config.nu
+ls
+nvim config.nu
+ls
+cd ..
+ls
+cd ..
+ls
+clear
+git int
+git init
+ls
+clear
+git status
+git 
+git add-url
+git set-url
+git add
+clear
+git remote add origin git@github.com:nurly3/green-dots.git
+git remote -v<\n>
+clear
+git add .<\n>git commit -m "Initial commit"<\n>
+git config --global user.email "nurlyx@proton.me"
+git config --global user.name "Nurlyx"
+clear
+git push
+git push -u origin main
