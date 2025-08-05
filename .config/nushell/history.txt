@@ -194,3 +194,24 @@ ls
 cd ..
 ls
 exit
+git add .
+git commit -m "make a starship file"
+cd .config/
+ls
+git push
+exit
+ls
+cd ..
+stow .
+ls
+cd .config/
+ls
+eexit
+exit
+nvim .config/starship.toml
+ls
+clear
+cd .config/
+cd nushell/
+ls
+nvim config.nu
