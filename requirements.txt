@@ -6,3 +6,4 @@ npm
 zen-browser-bin
 nushell
 starship
+zellij
