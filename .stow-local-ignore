@@ -1,1 +1,4 @@
 requirements.txt
+.git
+.gitconfig
+.gitignore
