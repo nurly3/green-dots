@@ -580,3 +580,11 @@ binds {
     // moving the mouse or pressing any other key.
     Mod+Shift+P { power-off-monitors; }
 }
+
+spawn-at-startup "xwayland-satellite"
+// Or, if you built it by hand:
+// spawn-at-startup "~/path/to/code/target/release/xwayland-satellite"
+
+environment {
+    DISPLAY ":0"
+}
