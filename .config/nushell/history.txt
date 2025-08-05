@@ -153,3 +153,17 @@ ls
 clear
 git commit -m "change some kitty stuff"
 git push
+git add .
+git commit -m "change some kitty stuff"
+git push
+clear
+clrear
+ls
+clear
+nvim requirements.txt
+yay -S --needed - < requirements.txt
+bash
+ls
+clear
+nvim requirements.txt
+clear

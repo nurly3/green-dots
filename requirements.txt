@@ -5,3 +5,4 @@ kitty
 npm
 zen-browser-bin
 nushell
+starship
