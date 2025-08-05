@@ -285,3 +285,19 @@ ls
 git statsu
 git status
 nvim .gitignore
+git add .
+git commit -m "ignore history"
+git push
+ls
+clear
+git statuss
+git status
+ls
+git status
+gut pull
+git pull
+ls
+rm -rf .gitignore
+echo ".config/nushell/history.txt" >> .gitignore<\n>
+nvim .git/
+nvim .gitignore
