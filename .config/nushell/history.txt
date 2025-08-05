@@ -263,3 +263,25 @@ nvim .config/nushell/config.nu
 ls
 cd ..
 cd .dotfiles/
+git add .
+git commit -m "setup starship in nushell... again"
+git push
+clear
+ls
+clrear
+exit
+ls
+clear
+git status
+ls
+clear
+ls
+cd .dotfiles/
+ls
+git status
+touch .gitignore
+nvim .gitignore
+ls
+git statsu
+git status
+nvim .gitignore
