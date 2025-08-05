@@ -94,3 +94,62 @@ git config --global user.name "Nurlyx"
 clear
 git push
 git push -u origin main
+git add .<\n>git commit -m "Initial commit"<\n>
+ls
+clear
+git push -u origin main<\n>
+git fetch origin<\n>
+git push -u origin main<\n>
+git push
+git push --set-upstream origin main
+clear
+ls
+clear
+ls
+exit
+ls
+clear
+git checkout -b main<\n>
+ls
+clear
+git push -u origin main<\n>
+git fetch
+git push
+git push -u origin main<\n>
+git pull
+git pull origin main --allow-unrelated-histories<\n>
+ls
+ls a
+ls -a
+ls
+clear
+git push
+git push -u origin main<\n>
+git push -u origin main --force<\n>
+clear
+ls
+clear
+exit
+bash
+exit
+ls
+cd .config/
+cd ..
+cd .dotfiles/
+ls
+nvim .config/kitty/kitty.conf
+ls
+cd ..
+ls
+cd .config/
+ls
+cd kitty
+ls
+nvim kitty.conf
+ls
+cd ..
+cd .dotfiles/
+ls
+clear
+git commit -m "change some kitty stuff"
+git push
