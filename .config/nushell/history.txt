@@ -237,3 +237,29 @@ cd ..
 ls
 exit
 nvim starship.toml
+git add .
+git commit -m "stuff"
+ls
+exit
+git push
+cd ..
+stow .
+ls
+exit
+ls
+clear
+exit
+ls
+exit
+ls
+exit
+ls
+exit
+ls
+clear
+exti
+exit
+nvim .config/nushell/config.nu
+ls
+cd ..
+cd .dotfiles/
