@@ -167,3 +167,30 @@ ls
 clear
 nvim requirements.txt
 clear
+git add .
+git commit -m "add starship to requirements"
+git push
+clrear
+ls
+clear
+starship
+starship togle
+ls
+clear
+starship toggle
+ls
+clear
+cd .config/
+clear
+cd .config/
+ls
+exit
+touch starship.toml
+clrea
+ls
+cd .config/n
+cd .config/
+ls
+cd ..
+ls
+exit
