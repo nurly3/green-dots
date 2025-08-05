@@ -6,6 +6,11 @@ npm
 zen-browser-bin
 nushell
 starship
+
+# Lanucher for the time being
+fuzzel
+
+# Fonts
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
