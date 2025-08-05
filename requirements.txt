@@ -7,10 +7,12 @@ zen-browser-bin
 nushell
 starship
 
-# Lanucher for the time being
 fuzzel
 
-# Fonts
+vesktop-bin
+
+xwayland-satellite
+
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
