@@ -17,11 +17,8 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
-noto-fonts-ibm-plex
 noto-fonts-sc
 noto-fonts-tc
-noto-fonts-jp
-noto-fonts-kr
 
 tree
 
