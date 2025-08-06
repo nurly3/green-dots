@@ -4,7 +4,7 @@ stow
 kitty
 npm
 zen-browser-bin
-nushell
+fish
 starship
 
 fuzzel
