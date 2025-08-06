@@ -24,3 +24,5 @@ noto-fonts-jp
 noto-fonts-kr
 
 tree
+
+brightessctl
