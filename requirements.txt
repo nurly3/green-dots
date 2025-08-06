@@ -23,5 +23,4 @@ noto-fonts-tc
 noto-fonts-jp
 noto-fonts-kr
 
-zoxide
 tree
