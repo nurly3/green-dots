@@ -9,7 +9,7 @@ starship
 
 fuzzel
 
-vesktop-bin
+vesktop
 
 xwayland-satellite
 
@@ -22,7 +22,7 @@ noto-fonts-tc
 
 tree
 
-brightessctl
+brightnessctl
 
 python
 python-gobject
