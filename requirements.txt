@@ -26,3 +26,7 @@ noto-fonts-kr
 tree
 
 brightessctl
+
+python
+python-gobject
+fabric-cli-git
