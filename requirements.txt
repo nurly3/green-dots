@@ -31,3 +31,5 @@ cliphist
 wl-clipboard
 
 swww
+
+nwg-look
