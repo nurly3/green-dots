@@ -8,7 +8,3 @@ o.wrap = true
 o.shiftwidth = 4
 o.tabstop = 4
 o.expandtab = true
-
--- CUstom lualino... probably
-o.laststatus = 2
-o.statusline = "%f %y %m %= %l:%c"
