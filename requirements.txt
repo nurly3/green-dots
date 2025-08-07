@@ -9,8 +9,6 @@ starship
 
 fuzzel
 
-vesktop
-
 xwayland-satellite
 
 noto-fonts
