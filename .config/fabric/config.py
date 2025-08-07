@@ -1,4 +1,3 @@
-import fabric
 from fabric import Application
 from fabric.widgets.datetime import DateTime
 from fabric.widgets.centerbox import CenterBox

@@ -33,3 +33,5 @@ wl-clipboard
 swww
 
 nwg-look
+
+rustup
