@@ -579,6 +579,9 @@ binds {
     // Powers off the monitors. To turn them back on, do any input like
     // moving the mouse or pressing any other key.
     Mod+Shift+P { power-off-monitors; }
+
+    // Clipboard
+    Mod+V { spawn "sh" "-c" "cliphist list | fuzzel --dmenu | cliphist decode | wl-copy"; }
 }
 
 spawn-at-startup "xwayland-satellite"
@@ -588,3 +591,7 @@ spawn-at-startup "xwayland-satellite"
 environment {
     DISPLAY ":0"
 }
+
+// Niri Clipboard startup
+spawn-at-startup "wl-paste --type text --watch cliphist store" // Stores only text data
+spawn-at-startup "wl-paste --type image --watch cliphist store" // Stores only image data
