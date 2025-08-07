@@ -581,7 +581,7 @@ binds {
     Mod+Shift+P { power-off-monitors; }
 
     // Clipboard
-    Mod+V { spawn "cliphist list | fuzzel --dmenu | cliphist decode | wl-copy"; }
+    Mod+V { spawn "sh" "-c" "cliphist list | fuzzel --dmenu | cliphist decode | wl-copy"; }
 }
 
 spawn-at-startup "xwayland-satellite"
