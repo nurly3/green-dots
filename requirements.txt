@@ -29,3 +29,6 @@ gtk-layer-shell
 
 cliphist
 wl-clipboard
+
+swww
+waypaper
