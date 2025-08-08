@@ -595,3 +595,4 @@ environment {
 // Niri Clipboard startup
 spawn-at-startup "wl-paste --type text --watch cliphist store" // Stores only text data
 spawn-at-startup "wl-paste --type image --watch cliphist store" // Stores only image data
+spawn-at-startup "dunst"

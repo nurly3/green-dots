@@ -35,3 +35,4 @@ swww
 nwg-look
 
 rustup
+dunst
