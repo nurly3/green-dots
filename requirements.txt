@@ -1,7 +1,6 @@
 niri-git
 neovim
 stow
-kitty
 npm
 zen-browser-bin
 fish
@@ -27,6 +26,8 @@ matugen-bin
 swaync
 python-gobject
 fabric-cli-git
+kitty
+proton-vpn-gtk-app
 gtk-layer-shell
 swaylock
 
