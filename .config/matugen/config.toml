@@ -1,0 +1,24 @@
+[config]
+version_check = false
+
+[templates.kitty]
+input_path = '~/.config/matugen/templates/kitty-colors.conf'
+output_path = '~/.config/kitty/colors.conf'
+post_hook = 'pkill -SIGUSR1 kitty'
+
+[templates.gtk3]
+input_path = '~/.config/matugen/templates/gtk-colors.conf'
+output_path = '~/.config/gtk-3.0/gtk.css'
+post_hook = 'gsettings set org.gnome.desktop.interface gtk-theme ""; gsettings set org.gnome.desktop.interface gtk-theme adw-gtk3-{{mode}}'
+
+[templates.gtk4]
+input_path = '~/.config/matugen/templates/gtk-colors.conf'
+output_path = '~/.config/gtk-4.0/gtk.css'
+
+[templates.fuzzel]
+input_path = '~/.config/matugen/templates/fuzzel-colors.conf'
+output_path = '~/.config/fuzzel/colors.ini'
+
+[templates.starship]
+input_path = '~/.config/matugen/templates/starship-colors.conf'
+output_path = '~/.config/starship.toml'

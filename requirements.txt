@@ -1,4 +1,4 @@
-niri
+niri-git
 neovim
 stow
 kitty
@@ -23,9 +23,12 @@ tree
 brightnessctl
 
 python
+matugen-bin
+swaync
 python-gobject
 fabric-cli-git
 gtk-layer-shell
+swaylock
 
 cliphist
 wl-clipboard
